@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+django-project-seed/.env
+.virtualenv
+django-project-seed/media
+django-project-seed/static
+provisioning/ansible_remote_variables
+provisioning/ansible_remote_inventory
+provisioning/playbooks/roles/webapp/templates/env
+releases
+logs
