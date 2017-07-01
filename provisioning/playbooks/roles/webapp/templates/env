@@ -1,0 +1,5 @@
+DJANGO_SETTINGS_MODULE="core.settings.production"
+DB_NAME="dbdjango-project-seed"
+DB_USER="REMOTE_DB_USER"
+DB_PASSWORD="REMOTE_DB_USER_PWD"
+PYTHONUNBUFFERED="true"

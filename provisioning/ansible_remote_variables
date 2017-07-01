@@ -1,0 +1,10 @@
+---
+provisioning: 'remote'
+domain: 'DOMAIN'
+mysql_root_password: 'REMOTE_ROOT_MYSQL_PWD'
+db_user: 'REMOTE_DB_USER'
+db_password: 'REMOTE_DB_USER_PWD'
+db_name: 'dbdjango-project-seed'
+user: 'REMOTE_USER'
+password: 'REMOTE_PWD'
+webapp_dir: 'WEBAPP_DIR'
